@@ -1,6 +1,6 @@
 {
 	"statusCode": 200,
-	"version": "1.0.0",
-	"note": "",
+	"version": "1.0.1",
+	"note": "1.高温提醒\n2.测试更新",
 	"wgtUdateUrl": "https://leebailin.github.io/anlockTemperatureFamily/2B0B2C5.wgt"
 }
